@@ -1,5 +1,5 @@
 Summary:	X.org video driver for Voodoo1 and Voodoo2 video adapters
-Summary(pl):	Sterownik obrazu X.org dla kart graficznych Voodoo1 i Voodoo2
+Summary(pl.UTF-8):   Sterownik obrazu X.org dla kart graficznych Voodoo1 i Voodoo2
 Name:		xorg-driver-video-voodoo
 Version:	1.1.1
 Release:	0.1
@@ -25,7 +25,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 X.org video driver for Voodoo1 and Voodoo2 video adapters.
 
-%description -l pl
+%description -l pl.UTF-8
 Sterownik obrazu X.org dla kart graficznych Voodoo1 i Voodoo2.
 
 %prep
