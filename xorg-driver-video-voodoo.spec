@@ -1,12 +1,12 @@
 Summary:	X.org video driver for Voodoo1 and Voodoo2 video adapters
 Summary(pl.UTF-8):	Sterownik obrazu X.org dla kart graficznych Voodoo1 i Voodoo2
 Name:		xorg-driver-video-voodoo
-Version:	1.2.0
-Release:	3
+Version:	1.2.1
+Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-video-voodoo-%{version}.tar.bz2
-# Source0-md5:	7c681d9b57f5e1f798263fc1a9d99245
+# Source0-md5:	ed4ce3a5406ca7958865d39558259726
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
